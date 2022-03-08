@@ -1,0 +1,12 @@
+:root{
+    --cor_fundo: #051D3B;
+    --font_inter: 'Inter';
+}
+
+body{
+    font-family: var(--font_inter);
+    background: var(--cor_fundo);
+    max-width: 1500px;
+    width: 90%;
+    margin: 0 auto;
+}
